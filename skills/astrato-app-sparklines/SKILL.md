@@ -15,7 +15,7 @@ companion is unavailable, use the current documentation on that topic.
 
 ## Read the documentation first
 
-The documentation base URL is `http://localhost:4321`.
+The documentation base URL is `http://docs.astrato.io`.
 
 Fetch its `/llms.txt`. Read the **KPI card** component page for how a card carries value, change
 and trend, the **Tufte** expert page for sparklines and small multiples, and the **Table**

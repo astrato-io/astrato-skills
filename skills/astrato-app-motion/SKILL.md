@@ -14,7 +14,7 @@ animation; if a companion is unavailable, use the current documentation on that 
 
 ## Read the documentation first
 
-The documentation base URL is `http://localhost:4321`.
+The documentation base URL is `http://docs.astrato.io`.
 
 Fetch its `/llms.txt`. Read **Theming** for tokens and colour roles, the **Visualizations reference**
 section on chart animations for reduced-motion controls, **Loaders** for loading states, and the
