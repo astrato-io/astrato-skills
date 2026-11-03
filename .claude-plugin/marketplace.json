@@ -1,0 +1,12 @@
+{
+  "name": "astrato-skills",
+  "owner": { "name": "Astrato", "url": "https://astrato.io" },
+  "metadata": { "description": "Astrato skills for Claude Code." },
+  "plugins": [
+    {
+      "name": "astrato",
+      "source": "./",
+      "description": "Skills for building on Astrato. Connect the Astrato MCP server separately."
+    }
+  ]
+}

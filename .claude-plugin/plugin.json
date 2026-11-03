@@ -1,0 +1,11 @@
+{
+  "name": "astrato",
+  "displayName": "Astrato",
+  "version": "1.0.0",
+  "description": "Skills that teach Claude Code how to build on Astrato: semantic layers, dashboards, Astrato Apps and visualizations. Connect the Astrato MCP server separately.",
+  "author": { "name": "Astrato", "url": "https://astrato.io" },
+  "homepage": "https://docs.astrato.io/skills/",
+  "repository": "https://github.com/astrato-io/astrato-skills",
+  "license": "UNLICENSED",
+  "keywords": ["astrato", "semantic-layer", "dashboards", "analytics"]
+}
