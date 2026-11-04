@@ -23,12 +23,14 @@ precedence over this skill.
 Read the matching app quickstart for a new integration, **Mounting objects** for creation
 and lifecycle, and the definition and operation references for the selected visualization
 types. Follow **Choose a chart** before declaring a presentation requirement unsupported.
-Read **Interactivity guide** when changing selections, and **Query performance** when a page
+Read **Interactivity guide** when changing selections, and **Always show a selection bar** in
+**Filters and selections** for the selection bar every interactive page carries, and **Query performance** when a page
 preloads several tabs or a selection change re-queries many objects. Reuse the working client and
 mounting path in an existing app.
 
 Follow the dependency version check in `astrato-apps`, or **Package versions** in
-**Astrato App quickstart** when that skill is unavailable, including for externally hosted apps.
+**Data App quickstart** when that skill is unavailable, including for externally hosted apps. In
+an App Builder project, follow **App Builder**, where the saved lock sets versions.
 
 1. Establish the app model and its documented authentication boundary before integration.
    Use `astrato-apps` for an Astrato App or **Externally hosted app quickstart** for an externally
@@ -46,5 +48,5 @@ Follow the dependency version check in `astrato-apps`, or **Package versions** i
    send, not only load.
 
 Use `astrato-dashboard-design` for presentation decisions and `astrato-semantic-layer` for
-requested model changes. **Dashboard app design** routes complete dashboard work when the
+requested model changes. **Data App developer guide** routes complete dashboard work when the
 coordinating skill is unavailable.
