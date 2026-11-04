@@ -14,7 +14,7 @@ use the current documentation on that topic.
 
 ## Read the documentation first
 
-The documentation base URL is `http://docs.astrato.io`.
+The documentation base URL is `https://docs.astrato.io`.
 
 Fetch its `/llms.txt`. Read **Theming** for how colours and typefaces become tokens, the **Header**
 component for where the brand mark sits, and **Visualizations reference** styling for mapping a

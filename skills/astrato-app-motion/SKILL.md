@@ -14,19 +14,19 @@ animation; if a companion is unavailable, use the current documentation on that 
 
 ## Read the documentation first
 
-The documentation base URL is `http://docs.astrato.io`.
+The documentation base URL is `https://docs.astrato.io`.
 
 Fetch its `/llms.txt`. Read **Theming** for tokens and colour roles, the **Visualizations reference**
 section on chart animations for reduced-motion controls, **Loaders** for loading states, and the
-**Visual essay** and **Long-form** layout pages for how motion respects reader preferences. Current
-documentation takes precedence over this skill.
+**Visual essay style** and **Long-form layout** pages for how motion respects reader preferences.
+Current documentation takes precedence over this skill.
 
 ## When to add it
 
-- Add a subtle ambient layer when the page would otherwise be flat cards on a plain background, or
-  when the user asks for energy, polish or a branded atmosphere.
+- Motion is a choice, not a default. Add a subtle ambient layer when it suits the subject and
+  reader, or when the user asks for energy, polish or a branded atmosphere.
 - Skip it for dense operational views where it adds nothing, and when the user wants a restrained
-  result. Ask for direction rather than adding it by default when the context is formal.
+  result. Ask for direction before adding it when the context is formal.
 - Derive the look from the brand's own colours and shapes; see `astrato-app-brand` when a company is
   named.
 
