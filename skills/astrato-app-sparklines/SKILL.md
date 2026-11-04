@@ -15,12 +15,12 @@ companion is unavailable, use the current documentation on that topic.
 
 ## Read the documentation first
 
-The documentation base URL is `http://docs.astrato.io`.
+The documentation base URL is `https://docs.astrato.io`.
 
 Fetch its `/llms.txt`. Read the **KPI card** component page for how a card carries value, change
-and trend, the **Tufte** expert page for sparklines and small multiples, and the **Table**
-operations page for how a column becomes a sparkline. Read **Application limitations** before
-choosing the route, and **Loaders** for loading states. Current documentation takes precedence over
+and trend, the **Edward Tufte** expert page for sparklines and small multiples, and the **table
+operations** page for how a column becomes a sparkline. Read **App limitations** before choosing
+the route, and **Loaders** for loading states. Current documentation takes precedence over
 this skill; do not rely on remembered operation names.
 
 ## Decide where a trend belongs

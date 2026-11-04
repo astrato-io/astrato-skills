@@ -11,7 +11,7 @@ The documentation base is `https://docs.astrato.io`. Start at its `/llms.txt`, r
 already read in this task, and follow only relevant links. Current documentation takes
 precedence over this skill.
 
-Read **Dashboard app design** for the build order, then **Compose a dashboard page** for
+Read **Data App developer guide** for the build order, then **Compose a dashboard page** for
 data preparation and presentation choices. Read **Verifying an app** before deciding how
 to demonstrate completion. Reuse verified context and assess only what the request changes.
 
@@ -24,7 +24,8 @@ to demonstrate completion. Reuse verified context and assess only what the reque
 3. Choose the presentation through `astrato-dashboard-design` or the composition guide.
    Treat a supplied reference as evidence of appearance, not proof of metric meaning.
    Document consequential ambiguities and deliberate differences.
-4. Build through `astrato-visualizations` and the selected app quickstart. Prove an unfamiliar
+4. Build through `astrato-visualizations` and the selected app quickstart. Every interactive page
+   ships with filters and a selection bar (**Always show a selection bar**) on the first pass. Prove an unfamiliar
    integration on a representative view before expanding it. Report missing capabilities
    rather than silently replacing the intended analysis.
 5. Apply **Verifying an app** to the requested scope and report delivered behavior, performed

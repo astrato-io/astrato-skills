@@ -27,12 +27,14 @@ when those concerns change.
 - Choose forms and space together so labels, comparisons and controls remain readable at
   the target sizes. Follow the layout guide's defaults and scrolling rules rather than
   imposing a fixed desktop grid on every dashboard.
+- For pages readers can filter or click, follow **Always show a selection bar** in **Filters and
+  selections**.
 - Preserve category and state meaning across related views and selections. Follow the
-  chart and theming guides for supported encodings, contrast and optional starting palettes.
-- Give a new app one quiet, decorative ambient layer that stays in view, in the sticky header and
-  any page whitespace, and never carries information. Keep it low contrast in every theme, behind
-  data rather than under it, with a designed fallback. Treat other motion and texture as optional
-  suggestions. Follow **Motion and texture** for what suits the navigation type and subject.
+  chart and theming guides for supported encodings and contrast.
+- Treat motion and texture as optional. Add one quiet, decorative ambient layer only when it suits
+  the subject and reader. It never carries information; keep it low contrast in every theme, behind
+  data rather than under it, with a designed fallback. Follow **Motion and texture** for what suits
+  the navigation type and subject.
 - For a restyle, preserve metric definitions and interactions. Revisit data discovery only
   when the requested presentation exposes an unresolved analytical requirement.
 
