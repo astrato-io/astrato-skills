@@ -1,0 +1,18 @@
+{
+  "name": "astrato",
+  "displayName": "Astrato",
+  "version": "1.0.0",
+  "description": "Skills for building on Astrato: semantic layers, dashboards, Data Apps, governed charts and data discovery, guided by the current Astrato documentation.",
+  "author": {
+    "name": "Astrato Analytics",
+    "url": "https://astrato.io"
+  },
+  "homepage": "https://docs.astrato.io/skills/",
+  "repository": "https://github.com/astrato-io/astrato-skills",
+  "keywords": ["astrato", "semantic-layer", "dashboards", "data-apps", "analytics", "bi"],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://docs.astrato.io/skills/",
+  "supportUrl": "https://help.astrato.io/",
+  "privacyPolicyUrl": "https://astrato.io/privacy-note",
+  "termsOfServiceUrl": "https://astrato.io/terms-and-conditions"
+}
