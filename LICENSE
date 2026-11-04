@@ -1,0 +1,93 @@
+# Astrato Libraries License — Version 1.0
+
+Copyright © Astrato Analytics Ltd. All rights reserved.
+
+## 1. Scope
+
+This license applies exclusively to software packages expressly distributed by Astrato under this license, including accompanying Astrato-owned assets and documentation (the “Software”).
+
+It does not apply to other Astrato software or assets, including visualization bundles downloaded or extracted from the Astrato application, its asset URLs or content delivery networks, unless expressly designated by Astrato as distributed under this license. Public accessibility alone does not confer any rights under this license.
+
+## 2. Permitted use
+
+Subject to this license, Astrato grants you a limited, non-exclusive, non-transferable license to use, copy, configure, modify and bundle the Software to develop, deploy and operate applications that access, process, analyze or display data through the Astrato platform (“Astrato-connected applications”).
+
+Astrato-connected applications may incorporate external data, APIs, user inputs, calculations and other sources, provided Astrato supplies a substantive data or analytical component. Nominal or incidental integration with Astrato does not qualify an otherwise independent application.
+
+All use must be covered by a valid Astrato subscription or other written authorization and remain within its applicable user, audience and usage limits.
+
+## 3. Embedding and distribution
+
+You may embed the Software, including permitted modifications, into Astrato-connected applications and distribute copies reasonably necessary for their operation, including browser-delivered code and application bundles.
+
+Authorized end users may execute those copies solely as part of the applicable Astrato-connected application and within the scope of the relevant Astrato authorization. Such distribution does not grant independent rights to extract, reuse, modify or redistribute the Software.
+
+You must preserve applicable copyright notices, this license and required third-party notices in distributed copies or make them available through an accessible accompanying notice.
+
+You may not distribute, sublicense, sell or offer the Software as a standalone library, toolkit or independently reusable component.
+
+Your independently developed application code remains yours and need not be disclosed. Modifications to the Software do not transfer ownership of Astrato intellectual property.
+
+## 4. Restrictions
+
+You may not:
+
+- Use the Software as a general-purpose charting, analytics, application-runtime or data-processing library independently of Astrato.
+
+- Use nominal or incidental Astrato integration to circumvent the Astrato-connected use requirement.
+
+- Distribute the Software separately for independent reuse outside Astrato-connected applications.
+
+- Bypass Astrato authentication, access controls, licensing mechanisms or usage limits.
+
+- Remove or obscure applicable copyright, ownership or attribution notices.
+
+- Reverse engineer, decompile, disassemble or otherwise attempt to derive non-public source code or implementation details of the Software, except as permitted by applicable law.
+
+- Use the Software, its source code, non-public implementation details or systematically extracted outputs to train, distil, develop or improve software intended to reproduce or substantially replicate the Software's proprietary functionality, including competing visualization libraries, analytical engines or application runtimes.
+
+These restrictions do not prohibit ordinary use of AI-assisted development tools, analysis of application outputs or development of independently created application functionality, provided such activities do not involve prohibited extraction, replication or misuse of the Software.
+
+Nothing in this section restricts independent development without misuse of the Software or acts that cannot lawfully be restricted.
+
+## 5. Third-party components
+
+Third-party components remain governed by their respective licenses, and nothing in this license limits rights granted directly under those licenses.
+
+You must comply with applicable third-party obligations, including attribution, notices and source-code availability requirements where applicable.
+
+## 6. Duration and termination
+
+This license remains effective while the applicable Astrato subscription or written authorization remains valid and the Software is used in accordance with this license.
+
+Astrato may terminate rights under this license for a material breach that remains uncured for 30 days after written notice. Astrato may terminate immediately for a deliberate material breach involving unauthorized distribution, circumvention of access controls or prohibited replication of the Software.
+
+Upon expiry or termination, you must cease use and distribution of the Software and discontinue applications dependent on it, unless otherwise authorized in writing.
+
+Previously delivered copies do not create perpetual rights. However, end users covered by a separate, continuing Astrato authorization may continue using applications within the scope of that authorization.
+
+Copies may be retained solely for archival, backup or legal compliance purposes, without further use or distribution, except as required by law.
+
+Termination does not affect rights independently granted under third-party licenses or provisions intended by their nature to survive termination, including restrictions on unauthorized use and protection of intellectual property.
+
+## 7. Relationship to Astrato's standard terms
+
+This license grants additional rights to use, modify, embed and distribute the Software beyond those provided by Astrato's standard terms, exclusively for the Astrato-connected uses described here.
+
+To the extent that Astrato's standard terms restrict activities expressly permitted by this license, these permissions prevail solely for the Software and within the scope of this license.
+
+All other applicable Astrato terms, contractual obligations and subscription restrictions remain effective.
+
+A separately signed agreement expressly addressing these libraries takes precedence to the extent of any conflict.
+
+Nothing in this license grants rights to other Astrato software, visualization bundles, application assets, services or intellectual property.
+
+## 8. Ownership, warranties and governing law
+
+Astrato and its licensors retain all ownership and intellectual property rights in the Software. No rights are granted except those expressly stated in this license or required by applicable law.
+
+Except as provided in an applicable written agreement or required by law, the Software is provided “as is,” without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose and non-infringement.
+
+Where an applicable Astrato customer agreement governs the use of the Software, its provisions concerning service access, support, warranties, liability and governing law apply.
+
+Otherwise, this license is governed by the laws of England and Wales, and the courts of England and Wales have exclusive jurisdiction, subject to mandatory applicable law.
