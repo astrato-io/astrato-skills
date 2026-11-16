@@ -33,7 +33,9 @@ In App Builder, the saved lock sets versions; follow **App Builder** instead.
    Independent local work can continue while access is blocked.
 3. Develop through the supported runtime and local session, or in App Builder. Keep platform
    credentials and connection details out of authored browser code. Use the current docs for
-   configuration, browser access and supported capabilities.
+   configuration, browser access and supported capabilities. Give every object one shared
+   right-click menu early, before objects grow their own handlers, following **Object menu**; in
+   App Builder, render the starter's `ObjectMenu` rather than writing another.
 4. Validate the artifact and inspect the running app through **Verifying an app**, including
    figure consistency, sideways overflow and the query cost of interactions (**Query performance**). Distinguish
    a build, successful live queries and a verified hosted result when reporting completion.
