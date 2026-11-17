@@ -23,6 +23,13 @@ operations** page for how a column becomes a sparkline. Read **App limitations**
 the route, and **Loaders** for loading states. Current documentation takes precedence over
 this skill; do not rely on remembered operation names.
 
+Read every page you use in full: download its plain-text copy (the `/_llms-txt/<page>.txt`
+links in `/llms.txt`; `/app-design/` is `/_llms-txt/data-app-developer-guide.txt`) with a shell
+command such as `curl -sL <url>` and read all of the output.
+Never act on a partial read or a web-fetch summary, which drops commands, versions and caveats.
+Without a shell, read the page through an Astrato MCP resource where one is offered, and say
+which pages you could not read in full.
+
 ## Decide where a trend belongs
 
 - **KPI cards.** Give each headline measure a sparkline when the direction over recent periods

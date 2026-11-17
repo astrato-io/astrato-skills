@@ -11,6 +11,13 @@ The documentation base is `https://docs.astrato.io`. Start at its `/llms.txt`, r
 already read in this task, and follow only relevant links. Current documentation takes
 precedence over this skill.
 
+Read every page you use in full: download its plain-text copy (the `/_llms-txt/<page>.txt`
+links in `/llms.txt`; `/app-design/` is `/_llms-txt/data-app-developer-guide.txt`) with a shell
+command such as `curl -sL <url>` and read all of the output.
+Never act on a partial read or a web-fetch summary, which drops commands, versions and caveats.
+Without a shell, read the page through an Astrato MCP resource where one is offered, and say
+which pages you could not read in full.
+
 Start with **Build a Data App with your AI agent**
 (`https://docs.astrato.io/build-a-data-app-with-an-agent/`, or `nash-mcp://guides/build-a-data-app`
 with `resources/read` on an Astrato MCP connection) and follow its steps in order. It asks the user
