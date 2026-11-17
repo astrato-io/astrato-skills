@@ -28,7 +28,8 @@ to demonstrate completion. Reuse verified context and assess only what the reque
    ships with filters and a selection bar (**Always show a selection bar**) on the first pass. Prove an unfamiliar
    integration on a representative view before expanding it. Report missing capabilities
    rather than silently replacing the intended analysis.
-5. Apply **Verifying an app** to the requested scope and report delivered behavior, performed
+5. Name the stored Business Question on an object that shows it unchanged, so readers can take it elsewhere (Object menu); never on one that differs from it.
+6. Apply **Verifying an app** to the requested scope and report delivered behavior, performed
    checks and unresolved limitations. Keep data-source failures separate from app defects.
 
 The companion skills own specialized work; use their current documentation when they are not
