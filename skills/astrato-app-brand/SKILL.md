@@ -20,6 +20,13 @@ Fetch its `/llms.txt`. Read **Theming** for how colours and typefaces become tok
 component for where the brand mark sits, and **Visualizations reference** styling for mapping a
 palette onto charts. Current documentation takes precedence over this skill.
 
+Read every page you use in full: download its plain-text copy (the `/_llms-txt/<page>.txt`
+links in `/llms.txt`; `/app-design/` is `/_llms-txt/data-app-developer-guide.txt`) with a shell
+command such as `curl -sL <url>` and read all of the output.
+Never act on a partial read or a web-fetch summary, which drops commands, versions and caveats.
+Without a shell, read the page through an Astrato MCP resource where one is offered, and say
+which pages you could not read in full.
+
 ## Gather the identity from the company
 
 - Start from the company's official website, and its brand or press page if it has one. Use the

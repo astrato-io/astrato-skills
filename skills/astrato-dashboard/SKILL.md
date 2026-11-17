@@ -11,8 +11,20 @@ The documentation base is `https://docs.astrato.io`. Start at its `/llms.txt`, r
 already read in this task, and follow only relevant links. Current documentation takes
 precedence over this skill.
 
-Read **Data App developer guide** for the build order, then **Compose a dashboard page** for
-data preparation and presentation choices. Read **Verifying an app** before deciding how
+Read every page you use in full: download its plain-text copy (the `/_llms-txt/<page>.txt`
+links in `/llms.txt`; `/app-design/` is `/_llms-txt/data-app-developer-guide.txt`) with a shell
+command such as `curl -sL <url>` and read all of the output.
+Never act on a partial read or a web-fetch summary, which drops commands, versions and caveats.
+Without a shell, read the page through an Astrato MCP resource where one is offered, and say
+which pages you could not read in full.
+
+Start with **Build a Data App with your AI agent**
+(`https://docs.astrato.io/build-a-data-app-with-an-agent/`, or `nash-mcp://guides/build-a-data-app`
+with `resources/read` on an Astrato MCP connection) and follow its steps in order. It asks the user
+three things once, starts the app from `astrato init --template dashboard`, sets a starting look and
+composes the page from the starter's finish. The steps below add detail; where they differ, follow
+the guide. Read **Data App developer guide** for the build order, then **Compose a dashboard page**
+for data preparation and presentation choices. Read **Verifying an app** before deciding how
 to demonstrate completion. Reuse verified context and assess only what the request changes.
 
 1. Establish the audience, analytical questions, delivery model and constraints from the
