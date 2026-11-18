@@ -1,0 +1,15 @@
+{
+  "name": "astrato",
+  "description": "Astrato's skills for building semantic layers, dashboards and Data Apps.",
+  "owner": {
+    "name": "Astrato Analytics",
+    "url": "https://astrato.io"
+  },
+  "plugins": [
+    {
+      "name": "astrato",
+      "source": "./",
+      "description": "Skills for building on Astrato: semantic layers, dashboards, Data Apps, governed charts and data discovery."
+    }
+  ]
+}
